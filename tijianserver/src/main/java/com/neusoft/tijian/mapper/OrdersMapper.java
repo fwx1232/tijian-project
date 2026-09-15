@@ -9,6 +9,7 @@ import org.apache.ibatis.annotations.Select;
 
 import com.neusoft.tijian.dto.CalendarResponseDto;
 import com.neusoft.tijian.dto.OrdersMapperDto;
+import com.neusoft.tijian.po.Orders;
 
 @Mapper
 public interface OrdersMapper {

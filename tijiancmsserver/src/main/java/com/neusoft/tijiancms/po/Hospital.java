@@ -1,4 +1,4 @@
-package com.neusoft.tijian.po;
+package com.neusoft.tijiancms.po;
 
 // hospital 医院信息表
 public class Hospital {

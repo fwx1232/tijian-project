@@ -1,4 +1,4 @@
-package com.neusoft.tijian.po;
+package com.neusoft.tijiancms.po;
 
 // users 用户表
 public class Users {

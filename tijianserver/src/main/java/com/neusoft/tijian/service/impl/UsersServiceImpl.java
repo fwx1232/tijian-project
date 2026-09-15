@@ -3,6 +3,7 @@ package com.neusoft.tijian.service.impl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import com.neusoft.tijian.mapper.UsersMapper;
 import com.neusoft.tijian.po.Users;
 import com.neusoft.tijian.service.UsersService;
 
