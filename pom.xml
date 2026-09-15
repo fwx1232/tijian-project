@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <!-- 聚合工程：仅用于让 IDEA 一次性识别下面两个 Spring Boot 子模块 -->
+    <!-- 聚合工程：仅用于让 IDEA 一次性识别用户端 Spring Boot 子模块 -->
     <groupId>com.neusoft</groupId>
     <artifactId>tijian-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
@@ -12,7 +12,6 @@
 
     <modules>
         <module>tijianserver</module>
-        <module>tijiancmsserver</module>
     </modules>
 
     <properties>
