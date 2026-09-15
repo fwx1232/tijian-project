@@ -1,5 +1,11 @@
 package com.neusoft.tijian.po;
 
+// ==================================================================
+// 【管理端专用类，用户端不使用，已整体注释】
+// cidetailedreport 体检报告检查项明细表 —— 医生录入体检明细结果时使用，
+// 用户端本轮不开发体检报告功能，故不需要此类。
+// ==================================================================
+/*
 // cidetailedreport 体检报告检查项明细表
 public class CidetailedReport {
 
@@ -89,3 +95,4 @@ public class CidetailedReport {
 		this.orderId = orderId;
 	}
 }
+*/

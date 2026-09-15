@@ -1,2 +1,10 @@
 # 临时脚本
 ocr-f-tmp.ps1
+
+# 数据库导出文件（含数据，不入库；schema 参见 tijianserver/数据库.xlsx）
+*.sql
+
+# IDE（根目录聚合工程）
+.idea/
+*.iml
+.vscode/
