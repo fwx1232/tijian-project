@@ -1,0 +1,8 @@
+tijian.sql：           东软体检项目（用户端与医生端）sql脚本文件
+
+tijian_demo.rar：      东软体检用户端项目静态页面工程
+
+tijianfront.rar：      东软体检用户端项目-前端工程
+tijianserver.rar：     东软体检用户端项目-服务器端工程
+tijiancmsfront.rar：   东软体检医生端项目-前端工程、
+tijiancmsserver.rar：  东软体检医生端项目-服务器端工程
